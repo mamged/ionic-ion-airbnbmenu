@@ -123,10 +123,10 @@ function($timeout, $ionicGesture, $window) {
             return $scope.sideMenuContentTranslateX || 0;
           },
           setTranslateX: ionic.animationFrameThrottle(function(amount, isMenu) {
-            var xTransform = content.offsetX + amount - 50;
+            var xTransform = content.offsetX + amount - 30;
             if(isMenu){
               if(xTransform<0)
-                xTransform+=50;
+                xTransform+=30;
               var percentage = xTransform/225, scale;
               if((percentage*0.7)<=0){
                 scale = 1;
