@@ -1,20 +1,26 @@
 {
-	"name": "ionic-ion-airbnbmenu",
-	"versions": "1.0",
-	"homepage": "https://github.com/presencadigital/ionic-ion-airbnbmenu",
-	"authors": [
-		{ "name": "mAmged "},
-		{ "name": "Gláuber Brennon" , "email": "glauberbrennon@gmail.com" }
-	],
-	"description": "using this ion you can extend your application menu to look like airbnb mobile app menu",
-	"main": "ionic-airbnbmenu.css, ionic-airbnbmenu.js",
-	"moduleType": [],
-	"license": "MIT",
-	"ignore": [
-		"**/.*",
-		"node_modules",
-		"bower_components",
-		"test",
-		"tests"
-	]
+  "name": "ionic-ion-airbnbmenu",
+  "versions": "1.0",
+  "homepage": "https://github.com/presencadigital/ionic-ion-airbnbmenu",
+  "authors": [
+    {
+      "name": "mAmged "
+    },
+    {
+      "name": "Gláuber Brennon",
+      "email": "glauberbrennon@gmail.com"
+    }
+  ],
+  "description": "using this ion you can extend your application menu to look like airbnb mobile app menu",
+  "main": "ionic-airbnbmenu.css, ionic-airbnbmenu.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "1.0.0"
 }
