@@ -1,0 +1,19 @@
+{
+	"name": "ionic-ion-airbnbmenu",
+	"homepage": "https://github.com/presencadigital/ionic-ion-airbnbmenu",
+	"authors": [
+		{ "name": "mAmged "},
+		{ "name": "Gláuber Brennon" , "email": "glauberbrennon@gmail.com" }
+	],
+	"description": "using this ion you can extend your application menu to look like airbnb mobile app menu",
+	"main": "ionic-airbnbmenu.css, ionic-airbnbmenu.js",
+	"moduleType": [],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
