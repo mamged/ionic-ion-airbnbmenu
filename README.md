@@ -7,7 +7,7 @@ using this ion you can extend your application menu to look like airbnb mobile a
 just name your app module with <code>app</code>
 <h3>how to install</h3>
 <code>bower install ionic-ion-airbnbmenu</code>
-and include <code>ionic-airbnbmenu.css</code> and <code>ionic-airbnbmenu.css</code> on your index
+and include <code>ionic-airbnbmenu.css</code> after your css and <code>ionic-airbnbmenu.js</code> after your app.js on your index
 <h3>example</h3>
 <code>
 var app = angular.module('starter', ['ionic', 'starter.controllers'])
