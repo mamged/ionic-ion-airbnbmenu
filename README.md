@@ -1,6 +1,7 @@
 ionic-ion-airbnbmenu
 ====================
-author: @mamged<br>
+author: @mamged<br> <br>
+kindly note that this ion is not maintained long time ago and may not be compatible with the cerrent codebase of ionic
 using this ion you can extend your application menu to look like airbnb mobile app menu<br>
 <a href="http://codepen.io/mAmged/pen/BypyWN">Demo</a>
 <h1>usage</h1>
